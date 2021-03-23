@@ -1,0 +1,9 @@
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\bin\Debug\netstandard2.0\BasicMaths.deps.json
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\bin\Debug\netstandard2.0\BasicMaths.dll
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\bin\Debug\netstandard2.0\BasicMaths.pdb
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\obj\Debug\netstandard2.0\BasicMaths.AssemblyInfoInputs.cache
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\obj\Debug\netstandard2.0\BasicMaths.AssemblyInfo.cs
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\obj\Debug\netstandard2.0\BasicMaths.csproj.CoreCompileInputs.cache
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\obj\Debug\netstandard2.0\BasicMaths.dll
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\obj\Debug\netstandard2.0\BasicMaths.pdb
+D:\volkan\vs-projeler\BasicMaths\BasicMaths\obj\Debug\netstandard2.0\BasicMaths.csprojAssemblyReference.cache

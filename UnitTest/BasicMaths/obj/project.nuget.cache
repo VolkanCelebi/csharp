@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "neiozJV9pO71CuIc6PmKmZYQPbMXNLeDOvQr04ZWv6i2ncuSC5acUUH1q5OXbIVV46g1F1xIf8dXj8wGGiYDKg==",
+  "success": true,
+  "projectFilePath": "D:\\volkan\\vs-projeler\\BasicMaths\\BasicMaths\\BasicMaths.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
